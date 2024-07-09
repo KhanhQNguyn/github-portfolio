@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khanh! <br/><a href="https://github.com/KhanhQNguyn"> Sophomore at University of Wollongong: Australia</a>,
+<h1>Hi, I'm Khanh! <br/><a href="https://www.uow.edu.au/"> Sophomore at University of Wollongong: Australia</a>
 
 <h2>👨‍💻 Projects:</h2>
 - [Data Analyst Professionals Breakdown]
