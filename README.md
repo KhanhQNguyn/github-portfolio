@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khanh! <br/><a href="https://github.com/KhanhQNguyn"> <a href="https://www.linkedin.com/in/frankkhanhnguyen/">Sophomore at University of Wollongong: Australia</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Khanh! <br/><a href="https://github.com/KhanhQNguyn"> Sophomore at University of Wollongong: Australia</a>,
 
 <h2>👨‍💻 Projects:</h2>
 - [Data Analyst Professionals Breakdown]
